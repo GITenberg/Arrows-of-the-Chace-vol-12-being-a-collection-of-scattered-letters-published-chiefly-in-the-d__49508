@@ -1,4 +1,8 @@
 _repo: Arrows-of-the-Chace-vol-12-being-a-collection-of-scattered-letters-published-chiefly-in-the-d__49508
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49508-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruskin, John
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49508#Arrows-of-the-Chace-vol-12-being-a-collection-of-scattered-letters-published-chiefly-in-the-d_
 gutenberg_issued: '2015-07-22'
 gutenberg_type: Text
 identifiers:
